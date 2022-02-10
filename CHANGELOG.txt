@@ -1,5 +1,9 @@
 Version history
 
+1.6.2
+- Improvement: Moved to .NET Framework 4.7.2+, .NET 5+
+- Improvement: Moved to Visual Studio 2022
+
 1.6.1
 - Pretend that native methods for caret manipulation are available on Linux
 
